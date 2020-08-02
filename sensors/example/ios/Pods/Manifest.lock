@@ -1,0 +1,28 @@
+PODS:
+  - e2e (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - sensors (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - e2e (from `.symlinks/plugins/e2e/ios`)
+  - Flutter (from `Flutter`)
+  - sensors (from `.symlinks/plugins/sensors/ios`)
+
+EXTERNAL SOURCES:
+  e2e:
+    :path: ".symlinks/plugins/e2e/ios"
+  Flutter:
+    :path: Flutter
+  sensors:
+    :path: ".symlinks/plugins/sensors/ios"
+
+SPEC CHECKSUMS:
+  e2e: d0c9f8c832b4cc7ab386d0c0f0af67fe5ac0c3bd
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  sensors: 84eb7a30e47a649e4172b71d6e81be614c280336
+
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
+
+COCOAPODS: 1.9.1

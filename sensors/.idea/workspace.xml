@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ba8449e-5fce-44bd-8b00-aa94191d9194" name="Default Changelist" comment="f">
+      <change beforePath="$PROJECT_DIR$/../e2e/example/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../e2e/example/android/gradle.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1fPLm1mgGbEcg5HJysTrNp4he2w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/lib" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main">
+    <configuration name="main" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sensorMain.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/sensorMain.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.sensorMain.dart" />
+      <item itemvalue="Flutter.main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ba8449e-5fce-44bd-8b00-aa94191d9194" name="Default Changelist" comment="" />
+      <created>1596114935366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596114935366</updated>
+      <workItem from="1596114938255" duration="820000" />
+      <workItem from="1596260781557" duration="837000" />
+      <workItem from="1596275838088" duration="321000" />
+      <workItem from="1596276175217" duration="706000" />
+      <workItem from="1596276898429" duration="1490000" />
+      <workItem from="1596279621762" duration="4496000" />
+      <workItem from="1596347802824" duration="613000" />
+    </task>
+    <task id="LOCAL-00001" summary="f">
+      <created>1596348251615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596348251615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="f" />
+    <option name="LAST_COMMIT_MESSAGE" value="f" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596282666869">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1596282666869" />
+    <state x="577" y="333" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1596282663822">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="577" y="333" key="#com.intellij.ide.util.TreeFileChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1596282663822" />
+    <state x="603" y="247" key="#xdebugger.evaluate" timestamp="1596284920199">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="603" y="247" key="#xdebugger.evaluate/0.23.1680.1027@0.23.1680.1027" timestamp="1596284920199" />
+    <state width="1638" height="343" key="GridCell.Tab.0.bottom" timestamp="1596285222487">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="343" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1596285222487" />
+    <state width="1638" height="343" key="GridCell.Tab.0.center" timestamp="1596285222486">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="343" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1596285222486" />
+    <state width="1638" height="343" key="GridCell.Tab.0.left" timestamp="1596285222486">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="343" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1596285222486" />
+    <state width="1638" height="343" key="GridCell.Tab.0.right" timestamp="1596285222487">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="343" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1596285222487" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1596348017224">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596348017224" />
+    <state x="100" y="123" width="1480" height="827" key="dock-window-1" timestamp="1596348579392">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="dock-window-1/0.23.1680.1027@0.23.1680.1027" timestamp="1596348579392" />
+    <state x="656" y="432" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596347932453">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="656" y="432" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1596347932453" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1596284357216">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596284357216" />
+  </component>
+</project>

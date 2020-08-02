@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:e2e] /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/build/e2e/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sensors] /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/build/sensors/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/9b3afecf810035921382f887c49595d0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/221b47a8f1cbdaa15a9104977834fb9b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/f03a19abf49a8b19a6958df3905196fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1a0a885fcfdf38e67ee52a3d47347aeb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/476ecddee85ce49642e4168532eee185/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d646f627aa53d4bb564766a05ebd45c5/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/2bfe47bb9b5bf1ed3b479ae73cf5055e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/02f6fc312aeb3fedac80095fea642db4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/f7dacf11697f2328c5d59e6cdc947655/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/513021d36d33d6ed654065eabb806605/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:rules:1.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/rules-1.2.0.aar/a461b51022b42b68fbf70f171a873253/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/espresso-core-3.2.0.aar/893f59e26423972168549bb066708172/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/runner-1.2.0.aar/28fba60270e8cee53858aa36bb71c102/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/bcc2926f3f2ef66250d7d191506cba19/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/58b3feedea01cbe43acfdfe18d5071dc/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.test:monitor:1.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/monitor-1.2.0.aar/8f17628a763e75a1fc8c6c4fd0152a64/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/2b376e2a731da840e9e26a4f41598bab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.2.0.aar/9a9af26a422cfe587f1c7f122c8bbaa7/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [androidx.core:core:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d646f627aa53d4bb564766a05ebd45c5/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d646f627aa53d4bb564766a05ebd45c5/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/58b3feedea01cbe43acfdfe18d5071dc/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/58b3feedea01cbe43acfdfe18d5071dc/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d646f627aa53d4bb564766a05ebd45c5/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:6:67-98
+	android:icon
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:6:99-133
+	android:name
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:6:18-66
+activity#io.flutter.plugins.sensorsexample.EmbeddingV1Activity
+ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:7:9-13:20
+	android:launchMode
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:8:19-49
+	android:hardwareAccelerated
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:11:19-53
+	android:windowSoftInputMode
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:12:19-61
+	android:configChanges
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:10:19-112
+	android:theme
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:9:19-72
+	android:name
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:7:19-54
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:hardwareAccelerated
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:16:13-106
+	android:theme
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:15:13-66
+	android:name
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:14:19-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:24:9-71
+	android:value
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:24:52-69
+	android:name
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml:24:20-51
+uses-sdk
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+MERGED from [:e2e] /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/build/e2e/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:e2e] /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/build/e2e/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sensors] /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/build/sensors/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sensors] /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/build/sensors/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/9b3afecf810035921382f887c49595d0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/9b3afecf810035921382f887c49595d0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/221b47a8f1cbdaa15a9104977834fb9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/221b47a8f1cbdaa15a9104977834fb9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/f03a19abf49a8b19a6958df3905196fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/f03a19abf49a8b19a6958df3905196fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1a0a885fcfdf38e67ee52a3d47347aeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1a0a885fcfdf38e67ee52a3d47347aeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/476ecddee85ce49642e4168532eee185/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/476ecddee85ce49642e4168532eee185/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d646f627aa53d4bb564766a05ebd45c5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d646f627aa53d4bb564766a05ebd45c5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/2bfe47bb9b5bf1ed3b479ae73cf5055e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/2bfe47bb9b5bf1ed3b479ae73cf5055e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/02f6fc312aeb3fedac80095fea642db4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/02f6fc312aeb3fedac80095fea642db4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/f7dacf11697f2328c5d59e6cdc947655/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/f7dacf11697f2328c5d59e6cdc947655/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/513021d36d33d6ed654065eabb806605/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/513021d36d33d6ed654065eabb806605/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:rules:1.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/rules-1.2.0.aar/a461b51022b42b68fbf70f171a873253/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/rules-1.2.0.aar/a461b51022b42b68fbf70f171a873253/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/espresso-core-3.2.0.aar/893f59e26423972168549bb066708172/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/espresso-core-3.2.0.aar/893f59e26423972168549bb066708172/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/runner-1.2.0.aar/28fba60270e8cee53858aa36bb71c102/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/runner-1.2.0.aar/28fba60270e8cee53858aa36bb71c102/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/bcc2926f3f2ef66250d7d191506cba19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/bcc2926f3f2ef66250d7d191506cba19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/58b3feedea01cbe43acfdfe18d5071dc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/58b3feedea01cbe43acfdfe18d5071dc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/monitor-1.2.0.aar/8f17628a763e75a1fc8c6c4fd0152a64/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/monitor-1.2.0.aar/8f17628a763e75a1fc8c6c4fd0152a64/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/2b376e2a731da840e9e26a4f41598bab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/2b376e2a731da840e9e26a4f41598bab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.2.0.aar/9a9af26a422cfe587f1c7f122c8bbaa7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.2.0.aar/9a9af26a422cfe587f1c7f122c8bbaa7/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/android/app/src/main/AndroidManifest.xml
