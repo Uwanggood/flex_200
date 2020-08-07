@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sensors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sensors/example/ios/.symlinks/plugins/sensors" vcs="Git" />
   </component>
 </project>
