@@ -9,9 +9,9 @@
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///Users/jae-sangsong/.pub-cache/hosted/pub.dartlang.org/analyzer-0.39.15",
+      "rootUri": "file:///Users/jae-sangsong/.pub-cache/hosted/pub.dartlang.org/analyzer-0.39.16",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.7"
     },
     {
       "name": "archive",
@@ -387,7 +387,7 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///Users/jae-sangsong/.pub-cache/hosted/pub.dartlang.org/vm_service-4.1.0",
+      "rootUri": "file:///Users/jae-sangsong/.pub-cache/hosted/pub.dartlang.org/vm_service-4.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.6"
     },
@@ -434,7 +434,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-07-28T14:49:50.691942Z",
+  "generated": "2020-08-05T12:52:13.279683Z",
   "generator": "pub",
   "generatorVersion": "2.9.0-14.1.beta"
 }

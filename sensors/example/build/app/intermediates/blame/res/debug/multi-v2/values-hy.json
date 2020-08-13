@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jae-sangsong/flutter_plugin/plugins/packages/sensors/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml",
+            "outputFile": "/Users/jae-sangsong/flutter_project/sensors/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml",
             "map": [
                 {
                     "source": "/Users/jae-sangsong/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d646f627aa53d4bb564766a05ebd45c5/res/values-hy/values-hy.xml",
