@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/jae-sangsong/source/flutter
 FLUTTER_APPLICATION_PATH=/Users/jae-sangsong/flutter_project/sensors/example
-FLUTTER_TARGET=/Users/jae-sangsong/flutter_project/sensors/example/lib/httpExample.dart
+FLUTTER_TARGET=/Users/jae-sangsong/flutter_project/sensors/example/lib/testMain.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 OTHER_LDFLAGS=$(inherited) -framework Flutter

@@ -1,6 +1,5 @@
 
 import 'package:sensors_example/aqueductLibrary.dart';
-import 'package:sensors_example/model/board.dart';
 /// This type initializes an application.
 ///
 /// Override methods in this class to set up routes and initialize services like
@@ -106,7 +105,7 @@ class HeroesChannel extends ApplicationChannel {
   Controller get entryPoint {
     return Router()
       ..route("/BoardController/[:id]")
-          .link(() => BoardController(context));
+         // .link(() => BoardController(context));
 //    ..route("/organizations/:orgName/heroes/[:heroID]")
 //        .link(() => OrgHeroesController());
 //    ..route("/organizations/:orgName/buildings/[:buildingID]")

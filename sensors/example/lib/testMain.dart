@@ -1,8 +1,11 @@
 import 'dart:async';
+import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sensors/sensors.dart';
+
+import 'httpExample.dart';
 
 void main() => runApp(Test());
 
@@ -17,15 +20,10 @@ class Test extends StatelessWidget {
     );
   }
 }
-//
-//Align(
-//alignment: Alignment.centerRight,
-//child: Material(
-//child: SensorToggle(),
-//))
+
 class TabHome {
   mainTab() {
-    return  CupertinoTabScaffold(
+    return CupertinoTabScaffold(
       tabBar: CupertinoTabBar(
         items: <BottomNavigationBarItem>[
           BottomNavigationBarItem(
@@ -51,7 +49,7 @@ class TabHome {
               ),
               child: Center(
                 child: CupertinoButton(
-                  child: const Text('Next page'),
+                  child: InnerTabPage(index: index),
                   onPressed: () {
                     Navigator.of(context).push(
                       CupertinoPageRoute<void>(
@@ -83,6 +81,72 @@ class TabHome {
   }
 }
 
+class InnerTabPage extends StatefulWidget {
+  final int index;
+
+  InnerTabPage({Key key, this.index}) : super(key: key);
+
+  @override
+  _InnerTabPageState createState() => _InnerTabPageState();
+}
+
+class _InnerTabPageState extends State<InnerTabPage> {
+  Future<List> post;
+  List colors = [Colors.red, Colors.green, Colors.yellow];
+  @override
+  void initState() {
+    super.initState();
+    post = fetchPost('greeting');
+  }
+
+  @override
+  // ignore: missing_return
+  Widget build(BuildContext context) {
+    switch (widget.index) {
+      case 0:
+        return FutureBuilder<List>(
+          future: post,
+          builder: (context, snapshot) {
+            if (snapshot.hasData) {
+              final item = snapshot.data[0];
+              return ListView.builder(
+                  padding: const EdgeInsets.all(8),
+                  itemCount: item.length,
+                  itemBuilder: (BuildContext context, int index) {
+                    return LimitedBox(
+                        maxHeight: 80,
+                        child: Container(
+                            height: 80,
+                            color: colors[new Random().nextInt(3)],
+                            child: Column(
+                              children: [
+                                Text(item['title'].toString()),
+                              ],
+                            )
+                        ),
+                    );
+                  }
+              );
+            } else if (snapshot.hasError) {
+              return Text("${snapshot.error}");
+            }
+
+            // 기본적으로 로딩 Spinner를 보여줍니다.
+            return CircularProgressIndicator();
+          },
+        );
+        break;
+      case 1:
+        break;
+      case 2:
+        break;
+      case 3:
+        break;
+      default:
+        break;
+    }
+  }
+}
 
 class SensorToggle extends StatefulWidget {
   @override

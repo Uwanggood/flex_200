@@ -4,13 +4,12 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-Future<Post> fetchPost() async {
-  final response =
-  await http.get('http://192.168.1.114:8080/greeting');
+Future<List> fetchPost(String restfulId) async {
+  final response = await http.get('http://192.168.1.123:8080/'+restfulId);
 
   if (response.statusCode == 200) {
     // 만약 서버로의 요청이 성공하면, JSON을 파싱합니다.
-    return Post.fromJson(json.decode(response.body));
+    return jsonDecode(response.body);
   } else {
     // 만약 요청이 실패하면, 에러를 던집니다.
     throw Exception('Failed to load post');
@@ -44,12 +43,12 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  Future<Post> post;
+  Future<List> post;
 
   @override
   void initState() {
     super.initState();
-    post = fetchPost();
+    post = fetchPost('greeting');
   }
 
   @override
@@ -64,11 +63,11 @@ class _MyAppState extends State<MyApp> {
           title: Text('Fetch Data Example'),
         ),
         body: Center(
-          child: FutureBuilder<Post>(
+          child: FutureBuilder<List>(
             future: post,
             builder: (context, snapshot) {
               if (snapshot.hasData) {
-                return Text(snapshot.data.fisrst_name.toString());
+                return Text(snapshot.data[0]["boardNum"].toString());
               } else if (snapshot.hasError) {
                 return Text("${snapshot.error}");
               }

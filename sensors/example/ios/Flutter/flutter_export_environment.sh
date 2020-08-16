@@ -2,7 +2,7 @@
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/jae-sangsong/source/flutter"
 export "FLUTTER_APPLICATION_PATH=/Users/jae-sangsong/flutter_project/sensors/example"
-export "FLUTTER_TARGET=/Users/jae-sangsong/flutter_project/sensors/example/lib/httpExample.dart"
+export "FLUTTER_TARGET=/Users/jae-sangsong/flutter_project/sensors/example/lib/testMain.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "OTHER_LDFLAGS=$(inherited) -framework Flutter"
